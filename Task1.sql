@@ -20,7 +20,7 @@
  insert into Employee_Details  values(9,"Santu","Specialist",429,"28-07-07",36000,1009);
  insert into Employee_Details  values(10,"Raj","Analyst",430,"22-08-11",35000,1010);
 
- select Salary from Employee_Details 
+ select Salary from Employee_Details;
 
  select distinct Job_name from Employee_Details;
 
